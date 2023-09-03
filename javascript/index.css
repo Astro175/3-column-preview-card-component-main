@@ -1,0 +1,29 @@
+body {
+    background-image: url("/Users/Astro/Documents/Challanges/javascript/table.png");
+    background-size: cover;
+    object-fit: cover;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h1 {
+    
+    color: goldenrod;
+    font-size: 4em;
+}
+
+
+button {
+    color: #016f32;
+    background-color: goldenrod;
+    padding: 1em 3em;
+    font-weight: bold;
+    cursor: pointer;
+    border: none; 
+    border-radius: 5px;
+    margin-bottom: 4px;
+}
+
